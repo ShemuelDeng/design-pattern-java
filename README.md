@@ -1,2 +1,3 @@
 # design-pattern-java
-design pattern for java
+design pattern for java!
+
